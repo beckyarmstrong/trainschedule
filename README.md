@@ -1,2 +1,0 @@
-# trainschedule
-Firebase Activity
